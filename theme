@@ -22,7 +22,7 @@
 	--backgroundsecondaryalt: 		41,43,47;
 	--backgroundtertiary: 			32,34,37;
 	--backgroundfloating: 			24,25,28;
-  --backgroundhover: 			255,255,255;
+  	--backgroundhover: 			255,255,255;
 }
 
 .theme-light:not(.userProfileOuterThemed-2BgJCM),
